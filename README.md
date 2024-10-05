@@ -53,7 +53,7 @@ I am currently focused on:
 ---
 
 ## 📫 Let's Connect!
-- **Email**: sojolkantidas99@email.com  
+- **Email**: sojolkantidas99@gmail.com  
 - **LinkedIn**:
 
 
