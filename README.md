@@ -1,16 +1,59 @@
-# Sojol Kanti Das Portfolio
+# 👋 Hi, I'm Sojol Kanti Das
 
-Welcome to my personal portfolio! My name is Sojol, and I'm passionate about [your fields of interest, e.g., instructional design, learning & development, UI/UX, web development, and data analysis]. This portfolio showcases my skills, education, and projects.
+## 🎓 About Me
+I am a Master's student in **Management & Sustainable Accounting and Finance** at **Leuphana University Lüneburg**. With an MBA and a Bachelor's in Accounting Information Systems, I have developed a strong foundation in finance, accounting, and data analysis. I am actively seeking opportunities to work as a **working student** in the field of **asset management** and finance.
 
-## Sections
+---
 
-- **Introduction**: A brief overview of who I am and what I do.
-- **Education**: My educational background and qualifications.
-- **Skills**: A list of my technical and professional skills.
+## 🏫 Education
 
-Feel free to explore my portfolio, and don't hesitate to reach out via the contact information provided!
+- **Master of Science in Management & Sustainable Accounting and Finance**  
+  _Leuphana University Lüneburg, Germany_  
+  *October 2023 - Present*
 
-## Contact
+- **MBA**  
+  _Shahjalal University of Science and Technology, Bangladesh_
 
-You can reach me at: [your.email@example.com](mailto:your.email@example.com)
-# sojolkantidas.github.io
+- **B.B.A major in Accounting Information Systems**  
+  _Shahjalal University of Science and Technology, Bangladesh_
+
+---
+
+## 💼 Work Experience
+
+- **Administrative Assistant**  
+  _Confidence Consultancy_  
+  *Responsibilities*: Managed client documentation, facilitated communication, and supported office operations.
+
+- **Banking Associate Intern**  
+  _Sonali Bank Limited_  
+  *Responsibilities*: Assisted in customer service, loan documentation, and internal banking processes.
+
+---
+
+## 🛠️ Skills
+
+- **Technical Skills**:  
+  - Advanced proficiency in **Microsoft Excel** & **Microsoft Word**  
+  - **Power BI** for data visualization  
+  - **SQL** for database management
+
+- **Languages**:  
+  - Fluent in **English**  
+  - Intermediate **German** (improving)  
+  - Native **Bengali**
+
+---
+
+## 🔍 Current Focus
+I am currently focused on:
+- Applying for **working student positions** in the field of asset management.
+- 
+
+---
+
+## 📫 Let's Connect!
+- **Email**: sojolkantidas99@email.com  
+- **LinkedIn**:
+
+
