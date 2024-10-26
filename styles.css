@@ -1,32 +1,91 @@
 body {
     font-family: Arial, sans-serif;
-    line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #f4f4f4; /* Light background for contrast */
 }
 
 header {
-    background: #333;
-    color: #fff;
-    padding: 10px 0;
+    background-color: #4CAF50; /* Main color for header */
+    color: white;
+    padding: 20px;
     text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
 }
 
-main {
-    padding: 20px;
-    max-width: 800px;
-    margin: auto;
-    background: #fff;
+nav {
+    margin: 20px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #4CAF50;
+}
+
+nav a:hover {
+    text-decoration: underline; /* Underline on hover */
 }
 
 section {
-    margin: 20px 0;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    background-color: white; /* White background for sections */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for sections */
+}
+
+.social-icons {
+    margin-top: 10px;
+}
+
+.social-icons a {
+    margin-right: 10px; /* Space between icons */
+}
+
+.icon {
+    width: 30px; /* Set icon size */
+    height: auto; /* Maintain aspect ratio */
+}
+
+#mission-vision, #education, #skills {
+    margin: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.degree {
+    margin: 10px 0;
+}
+
+.skill-bar {
+    margin-top: 20px;
+}
+
+.skill {
+    margin: 10px 0;
+}
+
+.progress-bar {
+    background-color: #4CAF50;
+    height: 20px;
+    border-radius: 4px;
 }
 
 footer {
     text-align: center;
-    padding: 10px 0;
-    background: #333;
-    color: #fff;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }
+
