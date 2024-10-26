@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sojol Kanti Das
 
 ## 🎓 About Me
-I am a Master's student in **Management & Sustainable Accounting and Finance** at **Leuphana University Lüneburg**. With an MBA and a Bachelor's in Accounting Information Systems, I have developed a strong foundation in finance, accounting, and data analysis. I am actively seeking opportunities to work as a **working student** in the field of **asset management** and finance.
+I am a Master's student in **Management & Sustainable Accounting and Finance** at **Leuphana University Lüneburg**. With an MBA and a Bachelor's in Accounting Information Systems, I have developed a strong foundation in finance, accounting, and data analysis. I am actively seeking opportunities to work as a **working student** in the field of business development, accounting, data analysis and finance.
 
 ---
 
